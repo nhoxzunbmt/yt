@@ -1,0 +1,8 @@
+file 'assets/step_1.png'
+duration 2
+file 'assets/step_4.png'
+duration 2
+file 'assets/step_3.png'
+duration 2
+file 'assets/step_2.png'
+duration 2

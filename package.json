@@ -1,0 +1,6 @@
+{
+  "name": "yt",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
